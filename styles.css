@@ -45,6 +45,8 @@ header h1 {
   border: 1px solid #eee;
   animation: rotate-in-center 0.7s linear;
   font-style: italic;
+    font-size: 2rem;
+  text-align: center;
 }
 /* @keyframes move {
   30% {
